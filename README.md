@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joël DIBASSO
 - 👀 I’m interested in web development, software engineering
-- 🌱 I’m currently learning computer science at Polytech Nice-Sophia (France)
+- 🌱 I’m currently studying computer science at Polytech Nice-Sophia (France)
 - 📫 How to reach me : joel@dibasso.fr
 
 <!---
